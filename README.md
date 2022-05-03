@@ -1,4 +1,4 @@
-<h3>よろしくお願いします！✌️🇯🇵</h3>
+<h3>よろしくお願いします！✌️🎌</h3>
 
 - My name is Daniil Slobodeniuk and I'm a zealous **software engineer**🧑‍💻
   - **SleeplessChallenger**と言えばもいいですよ😁
