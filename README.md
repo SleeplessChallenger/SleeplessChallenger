@@ -9,7 +9,7 @@
  
 <h3>A little bit of info🤙</h3>
 
-- Passionate _Medium writer_: https://medium.com/@SleeplessChallenger🖌
+- Unparalled _Medium writer_: https://medium.com/@SleeplessChallenger🖌
 - Unstoppable _leetcoder_: https://leetcode.com/SleeplessChallenger/🥷
 - Unmatched _LinkedIn_: www.linkedin.com/in/sleeplesschallenger😮‍💨
 
