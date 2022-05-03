@@ -1,4 +1,4 @@
-<h3>よろしくお願いします！✌️</h3>
+<h3>よろしくお願いします！✌️🇯🇵</h3>
 
 - My name is Daniil Slobodeniuk and I'm a zealous **software engineer**🧑‍💻
   - **SleeplessChallenger**と言えばもいいですよ😁
@@ -7,7 +7,7 @@
   - **Sber**: full-time🏦
   - **Picklang**: part-time🪴
  
-<h3>A little bit of info</h3>
+<h3>A little bit of info🤙</h3>
 
 - Passionate _Medium writer_: https://medium.com/@SleeplessChallenger🖌
 - Unstoppable _leetcoder_: https://leetcode.com/SleeplessChallenger/🥷
