@@ -5,7 +5,7 @@
 
 - Currenly work at🙌🏽:
   - **Sber**: full-time🏦
-  - **Picklang**: part-time🪴
+  - **Sber University (Java tutor)**: part-time🪴
  
 <h3>A little bit of info🤙</h3>
 
