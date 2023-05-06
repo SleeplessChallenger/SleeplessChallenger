@@ -4,7 +4,7 @@
   - **SleeplessChallenger**と言えばもいいですよ😁
 
 - Currenly work at🙌🏽:
-  - **Sber**: full-time🏦
+  - **Tinkoff**: full-time🏦
   - **Sber University (Java tutor)**: part-time🪴
  
 <h3>A little bit of info🤙</h3>
