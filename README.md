@@ -24,4 +24,4 @@ public class HowToReachMe {
 }
 ```
 
-**PS:** <a href="https://drive.google.com/file/d/1WdArkuOZm8iN87iHvOfGGzC6-tpeM20R/view?usp=sharing">**resume link👀**</a>
+**PS:** <a href="https://drive.google.com/file/d/1gayRzfjaf78iq35v0PyJqCJGS2c4KXnX/view?usp=sharing">**resume link👀**</a>
