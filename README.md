@@ -4,8 +4,7 @@
   - **SleeplessChallenger**と言えばもいいですよ😁
 
 - Currenly work at🙌🏽:
-  - **Tinkoff**: full-time🏦
-  - **Sber University (Java tutor)**: part-time🪴
+  - **Yandex**: full-time🏦
  
 <h3>A little bit of info🤙</h3>
 
@@ -24,4 +23,4 @@ public class HowToReachMe {
 }
 ```
 
-**PS:** <a href="https://drive.google.com/file/d/1v3yIwJe1ZZ9nw1_piyCC1ASmK_GVSboE/view?usp=sharing">**resume link👀**</a>
+**PS:** <a href="https://drive.google.com/file/d/17VxVDTBn_fwEsqRePNLqkGYWpu6tkbAu/view?usp=sharing">**resume link👀**</a>
