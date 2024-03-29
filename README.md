@@ -18,6 +18,7 @@ public class HowToReachMe {
   public static void main(String... unused) {
     String myTelegram = @SleeplessChallenger;
     String myGmail = sausernsunny@gmail.com;
+    String TgChannel = https://t.me/daniil_slobodeniuk;
   }
 
 }
